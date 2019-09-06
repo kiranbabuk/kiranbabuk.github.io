@@ -1,0 +1,42 @@
+h1
+{
+    font-size: 60px;
+    font-weight: bolder;
+    color:white;
+}
+.bigHeader
+{
+    font-size: 100px;
+    background-color: dodgerblue;
+    font-weight: bold;
+}
+.leftImage
+{
+    box-align: left;
+    box-shadow: 100vmax
+}
+.firstElement
+{  
+    color: blue;
+    background-color: black;
+    font-size: 40px;
+}
+.secondElement
+{
+    color:purple;
+    font-weight: bold
+}
+.thirdElement
+{
+    color:purple;
+}
+.fourthElement
+{
+    color:red;
+    font-size:10px
+}
+img
+{
+    box-align: center;
+    box-shadow: chartreuse;
+}
